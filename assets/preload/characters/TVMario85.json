@@ -1,0 +1,78 @@
+{
+  "animations": [
+    {
+      "loop": false,
+      "offsets": [
+        -1,
+        -60
+      ],
+      "anim": "singLEFT",
+      "fps": 24,
+      "name": "mario left",
+      "indices": []
+    },
+    {
+      "loop": false,
+      "offsets": [
+        -1,
+        -129
+      ],
+      "anim": "singDOWN",
+      "fps": 24,
+      "name": "mario down",
+      "indices": []
+    },
+    {
+      "loop": false,
+      "offsets": [
+        -1,
+        -41
+      ],
+      "anim": "singUP",
+      "fps": 24,
+      "name": "mario up",
+      "indices": []
+    },
+    {
+      "loop": false,
+      "offsets": [
+        -1,
+        -87
+      ],
+      "anim": "singRIGHT",
+      "fps": 24,
+      "name": "mario right",
+      "indices": []
+    },
+    {
+      "loop": false,
+      "offsets": [
+        0,
+        -100
+      ],
+      "anim": "idle",
+      "fps": 24,
+      "name": "mario idle",
+      "indices": []
+    }
+  ],
+  "no_antialiasing": true,
+  "image": "characters/tv_mario_pc",
+  "position": [
+    210,
+    30
+  ],
+  "healthicon": "icon-mario",
+  "flip_x": false,
+  "healthbar_colors": [
+    198,
+    29,
+    38
+  ],
+  "camera_position": [
+    -680,
+    -30
+  ],
+  "sing_duration": 6.1,
+  "scale": 6
+}
