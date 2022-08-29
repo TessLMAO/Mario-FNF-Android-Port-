@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="mx_in_menu.png">
+	<!-- Created with Adobe Animate version 20.0.3.25487 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="mario 10000" x="50" y="50" width="1310" height="954"/>
+	<SubTexture name="mario 10001" x="50" y="50" width="1310" height="954"/>
+	<SubTexture name="mario 10002" x="50" y="50" width="1310" height="954"/>
+	<SubTexture name="mario 10003" x="1410" y="50" width="1309" height="954" frameX="-1" frameY="0" frameWidth="1310" frameHeight="954"/>
+	<SubTexture name="mario 10004" x="1410" y="50" width="1309" height="954" frameX="-1" frameY="0" frameWidth="1310" frameHeight="954"/>
+	<SubTexture name="mario 10005" x="1410" y="50" width="1309" height="954" frameX="-1" frameY="0" frameWidth="1310" frameHeight="954"/>
+	<SubTexture name="mario 10006" x="2769" y="50" width="1309" height="954" frameX="-1" frameY="0" frameWidth="1310" frameHeight="954"/>
+	<SubTexture name="mario 10007" x="2769" y="50" width="1309" height="954" frameX="-1" frameY="0" frameWidth="1310" frameHeight="954"/>
+	<SubTexture name="mario 10008" x="2769" y="50" width="1309" height="954" frameX="-1" frameY="0" frameWidth="1310" frameHeight="954"/>
+	<SubTexture name="mario 10009" x="50" y="50" width="1310" height="954"/>
+	<SubTexture name="mario 10010" x="50" y="50" width="1310" height="954"/>
+	<SubTexture name="mario 10011" x="50" y="50" width="1310" height="954"/>
+	<SubTexture name="mario 10012" x="1410" y="50" width="1309" height="954" frameX="-1" frameY="0" frameWidth="1310" frameHeight="954"/>
+	<SubTexture name="mario 10013" x="1410" y="50" width="1309" height="954" frameX="-1" frameY="0" frameWidth="1310" frameHeight="954"/>
+	<SubTexture name="mario look to manu0000" x="4128" y="50" width="1310" height="954" frameX="-21" frameY="-35" frameWidth="1352" frameHeight="1015"/>
+	<SubTexture name="mario look to manu0001" x="4128" y="50" width="1310" height="954" frameX="-21" frameY="-35" frameWidth="1352" frameHeight="1015"/>
+	<SubTexture name="mario look to manu0002" x="5488" y="50" width="1310" height="948" frameX="-21" frameY="-45" frameWidth="1352" frameHeight="1015"/>
+	<SubTexture name="mario look to manu0003" x="50" y="1054" width="1310" height="947" frameX="-21" frameY="-46" frameWidth="1352" frameHeight="1015"/>
+	<SubTexture name="mario look to manu0004" x="1410" y="1054" width="1342" height="677" frameX="-5" frameY="-316" frameWidth="1352" frameHeight="1015"/>
+	<SubTexture name="mario look to manu0005" x="1410" y="1054" width="1342" height="677" frameX="-5" frameY="-316" frameWidth="1352" frameHeight="1015"/>
+	<SubTexture name="mario look to manu0006" x="2802" y="1054" width="1352" height="705" frameX="0" frameY="-288" frameWidth="1352" frameHeight="1015"/>
+	<SubTexture name="mario look to manu0007" x="2802" y="1054" width="1352" height="705" frameX="0" frameY="-288" frameWidth="1352" frameHeight="1015"/>
+	<SubTexture name="mario look to manu0008" x="4204" y="1054" width="1286" height="1001" frameX="-33" frameY="8" frameWidth="1352" frameHeight="1015"/>
+	<SubTexture name="mario look to manu0009" x="5540" y="1054" width="1288" height="1001" frameX="-32" frameY="8" frameWidth="1352" frameHeight="1015"/>
+	<SubTexture name="mario look to manu0010" x="50" y="2105" width="1288" height="968" frameX="-32" frameY="-35" frameWidth="1352" frameHeight="1015"/>
+	<SubTexture name="mario look to manu0011" x="50" y="2105" width="1288" height="968" frameX="-32" frameY="-35" frameWidth="1352" frameHeight="1015"/>
+	<SubTexture name="mario look to manu0012" x="1388" y="2105" width="1292" height="968" frameX="-30" frameY="-35" frameWidth="1352" frameHeight="1015"/>
+	<SubTexture name="mario look to manu0013" x="1388" y="2105" width="1292" height="968" frameX="-30" frameY="-35" frameWidth="1352" frameHeight="1015"/>
+	<SubTexture name="mario look to manu0014" x="1388" y="2105" width="1292" height="968" frameX="-30" frameY="-35" frameWidth="1352" frameHeight="1015"/>
+	<SubTexture name="mario look to manu0015" x="2730" y="2105" width="1291" height="968" frameX="-31" frameY="-35" frameWidth="1352" frameHeight="1015"/>
+	<SubTexture name="mario look to manu0016" x="2730" y="2105" width="1291" height="968" frameX="-31" frameY="-35" frameWidth="1352" frameHeight="1015"/>
+	<SubTexture name="mario look to manu0017" x="2730" y="2105" width="1291" height="968" frameX="-31" frameY="-35" frameWidth="1352" frameHeight="1015"/>
+	<SubTexture name="mario look to manu0018" x="4071" y="2105" width="1292" height="968" frameX="-30" frameY="-35" frameWidth="1352" frameHeight="1015"/>
+	<SubTexture name="mario look to manu0019" x="4071" y="2105" width="1292" height="968" frameX="-30" frameY="-35" frameWidth="1352" frameHeight="1015"/>
+	<SubTexture name="mario look to manu0020" x="4071" y="2105" width="1292" height="968" frameX="-30" frameY="-35" frameWidth="1352" frameHeight="1015"/>
+	<SubTexture name="mario look to manu0021" x="1388" y="2105" width="1292" height="968" frameX="-30" frameY="-35" frameWidth="1352" frameHeight="1015"/>
+	<SubTexture name="mario look to manu0022" x="1388" y="2105" width="1292" height="968" frameX="-30" frameY="-35" frameWidth="1352" frameHeight="1015"/>
+	<SubTexture name="mario look to manu0023" x="1388" y="2105" width="1292" height="968" frameX="-30" frameY="-35" frameWidth="1352" frameHeight="1015"/>
+	<SubTexture name="mario look to manu0024" x="2730" y="2105" width="1291" height="968" frameX="-31" frameY="-35" frameWidth="1352" frameHeight="1015"/>
+	<SubTexture name="mario look to manu0025" x="2730" y="2105" width="1291" height="968" frameX="-31" frameY="-35" frameWidth="1352" frameHeight="1015"/>
+	<SubTexture name="mario look to manu0026" x="2730" y="2105" width="1291" height="968" frameX="-31" frameY="-35" frameWidth="1352" frameHeight="1015"/>
+	<SubTexture name="mario look to manu0027" x="4071" y="2105" width="1292" height="968" frameX="-30" frameY="-35" frameWidth="1352" frameHeight="1015"/>
+	<SubTexture name="mario look to manu0028" x="4071" y="2105" width="1292" height="968" frameX="-30" frameY="-35" frameWidth="1352" frameHeight="1015"/>
+	<SubTexture name="mario look to manu0029" x="4071" y="2105" width="1292" height="968" frameX="-30" frameY="-35" frameWidth="1352" frameHeight="1015"/>
+	<SubTexture name="mario look to manu0030" x="1388" y="2105" width="1292" height="968" frameX="-30" frameY="-35" frameWidth="1352" frameHeight="1015"/>
+	<SubTexture name="mario look to manu0031" x="1388" y="2105" width="1292" height="968" frameX="-30" frameY="-35" frameWidth="1352" frameHeight="1015"/>
+	<SubTexture name="mario look to manu0032" x="1388" y="2105" width="1292" height="968" frameX="-30" frameY="-35" frameWidth="1352" frameHeight="1015"/>
+	<SubTexture name="mario look to manu0033" x="2730" y="2105" width="1291" height="968" frameX="-31" frameY="-35" frameWidth="1352" frameHeight="1015"/>
+	<SubTexture name="mario look to manu0034" x="2730" y="2105" width="1291" height="968" frameX="-31" frameY="-35" frameWidth="1352" frameHeight="1015"/>
+	<SubTexture name="mario look to manu0035" x="2730" y="2105" width="1291" height="968" frameX="-31" frameY="-35" frameWidth="1352" frameHeight="1015"/>
+	<SubTexture name="mario look to manu0036" x="4071" y="2105" width="1292" height="968" frameX="-30" frameY="-35" frameWidth="1352" frameHeight="1015"/>
+	<SubTexture name="mario look to manu0037" x="4071" y="2105" width="1292" height="968" frameX="-30" frameY="-35" frameWidth="1352" frameHeight="1015"/>
+	<SubTexture name="mario look to manu0038" x="4071" y="2105" width="1292" height="968" frameX="-30" frameY="-35" frameWidth="1352" frameHeight="1015"/>
+	<SubTexture name="mario look to manu0039" x="1388" y="2105" width="1292" height="968" frameX="-30" frameY="-35" frameWidth="1352" frameHeight="1015"/>
+</TextureAtlas>
