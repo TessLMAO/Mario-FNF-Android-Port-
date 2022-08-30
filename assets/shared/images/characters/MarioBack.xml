@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="MarioBack.png">
+	
+	
+	<SubTexture name="Down0000" x="0" y="0" width="194" height="220" />
+	<SubTexture name="Down0001" x="194" y="0" width="194" height="220" />
+	<SubTexture name="Down0002" x="388" y="0" width="194" height="220" />
+	<SubTexture name="Down0003" x="582" y="0" width="194" height="220" />
+	<SubTexture name="Down0004" x="776" y="0" width="194" height="220" />
+	<SubTexture name="Idle0000" x="970" y="0" width="199" height="205" />
+	<SubTexture name="Idle0001" x="1169" y="0" width="199" height="205" />
+	<SubTexture name="Idle0002" x="1369" y="0" width="199" height="205" />
+	<SubTexture name="Idle0003" x="1568" y="0" width="199" height="205" />
+	<SubTexture name="Idle0004" x="1768" y="0" width="199" height="205" />
+	<SubTexture name="Left0000" x="0" y="220" width="228" height="198" />
+	<SubTexture name="Left0001" x="228" y="220" width="228" height="198" />
+	<SubTexture name="Left0002" x="456" y="220" width="228" height="198" />
+	<SubTexture name="Left0003" x="684" y="220" width="228" height="198" />
+	<SubTexture name="Left0004" x="912" y="220" width="228" height="198" />
+	<SubTexture name="Right0000" x="1140" y="220" width="225" height="201" />
+	<SubTexture name="Right0001" x="1365" y="220" width="225" height="201" />
+	<SubTexture name="Right0002" x="1590" y="220" width="225" height="201" />
+	<SubTexture name="Right0003" x="1815" y="220" width="225" height="201" />
+	<SubTexture name="Right0004" x="0" y="421" width="225" height="201" />
+	<SubTexture name="Up0000" x="225" y="421" width="185" height="226" />
+	<SubTexture name="Up0001" x="410" y="421" width="185" height="226" />
+	<SubTexture name="Up0002" x="595" y="421" width="185" height="226" />
+	<SubTexture name="Up0003" x="780" y="421" width="185" height="226" />
+	<SubTexture name="Up0004" x="965" y="421" width="185" height="226" />
+</TextureAtlas>

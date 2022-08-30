@@ -1,0 +1,124 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="lordx.png">
+	
+	
+	<SubTexture name="hahaha0000" x="12" y="12" width="135" height="154" />
+	<SubTexture name="hahaha0001" x="12" y="12" width="135" height="154" />
+	<SubTexture name="hahaha0002" x="160" y="12" width="135" height="154" />
+	<SubTexture name="hahaha0003" x="160" y="12" width="135" height="154" />
+	<SubTexture name="hahaha0004" x="309" y="12" width="135" height="154" />
+	<SubTexture name="hahaha0005" x="309" y="12" width="135" height="154" />
+	<SubTexture name="hahaha0006" x="309" y="12" width="135" height="154" />
+	<SubTexture name="hahaha0007" x="309" y="12" width="135" height="154" />
+	<SubTexture name="hahaha0008" x="309" y="12" width="135" height="154" />
+	<SubTexture name="hahaha0009" x="309" y="12" width="135" height="154" />
+	<SubTexture name="hahaha0010" x="309" y="12" width="135" height="154" />
+	<SubTexture name="hahaha0011" x="309" y="12" width="135" height="154" />
+	<SubTexture name="hahaha0012" x="309" y="12" width="135" height="154" />
+	<SubTexture name="hahaha0013" x="309" y="12" width="135" height="154" />
+	<SubTexture name="lord x down0000" x="457" y="12" width="149" height="159" />
+	<SubTexture name="lord x down0001" x="457" y="12" width="149" height="159" />
+	<SubTexture name="lord x down0002" x="618" y="12" width="149" height="159" />
+	<SubTexture name="lord x down0003" x="618" y="12" width="149" height="159" />
+	<SubTexture name="lord x down0004" x="780" y="12" width="149" height="159" />
+	<SubTexture name="lord x down0005" x="780" y="12" width="149" height="159" />
+	<SubTexture name="lord x down0006" x="941" y="12" width="149" height="159" />
+	<SubTexture name="lord x down0007" x="941" y="12" width="149" height="159" />
+	<SubTexture name="lord x down0008" x="941" y="12" width="149" height="159" />
+	<SubTexture name="lord x down0009" x="941" y="12" width="149" height="159" />
+	<SubTexture name="lord x down0010" x="941" y="12" width="149" height="159" />
+	<SubTexture name="lord x down0011" x="941" y="12" width="149" height="159" />
+	<SubTexture name="lord x down0012" x="941" y="12" width="149" height="159" />
+	<SubTexture name="lord x down0013" x="941" y="12" width="149" height="159" />
+	<SubTexture name="lord x idle0000" x="1103" y="12" width="143" height="159" />
+	<SubTexture name="lord x idle0001" x="1103" y="12" width="143" height="159" />
+	<SubTexture name="lord x idle0002" x="1259" y="12" width="143" height="159" />
+	<SubTexture name="lord x idle0003" x="1259" y="12" width="143" height="159" />
+	<SubTexture name="lord x idle0004" x="1414" y="12" width="143" height="159" />
+	<SubTexture name="lord x idle0005" x="1414" y="12" width="143" height="159" />
+	<SubTexture name="lord x idle0006" x="1570" y="12" width="143" height="159" />
+	<SubTexture name="lord x idle0007" x="1570" y="12" width="143" height="159" />
+	<SubTexture name="lord x idle0008" x="1726" y="12" width="143" height="159" />
+	<SubTexture name="lord x idle0009" x="1726" y="12" width="143" height="159" />
+	<SubTexture name="lord x idle0010" x="1726" y="12" width="143" height="159" />
+	<SubTexture name="lord x idle0011" x="1726" y="12" width="143" height="159" />
+	<SubTexture name="lord x idle0012" x="1726" y="12" width="143" height="159" />
+	<SubTexture name="lord x idle0013" x="1726" y="12" width="143" height="159" />
+	<SubTexture name="lord x left0000" x="1882" y="12" width="142" height="142" />
+	<SubTexture name="lord x left0001" x="1882" y="12" width="142" height="142" />
+	<SubTexture name="lord x left0002" x="12" y="184" width="142" height="142" />
+	<SubTexture name="lord x left0003" x="12" y="184" width="142" height="142" />
+	<SubTexture name="lord x left0004" x="167" y="184" width="142" height="142" />
+	<SubTexture name="lord x left0005" x="167" y="184" width="142" height="142" />
+	<SubTexture name="lord x left0006" x="321" y="184" width="142" height="142" />
+	<SubTexture name="lord x left0007" x="321" y="184" width="142" height="142" />
+	<SubTexture name="lord x left0008" x="321" y="184" width="142" height="142" />
+	<SubTexture name="lord x left0009" x="321" y="184" width="142" height="142" />
+	<SubTexture name="lord x left0010" x="321" y="184" width="142" height="142" />
+	<SubTexture name="lord x left0011" x="321" y="184" width="142" height="142" />
+	<SubTexture name="lord x left0012" x="321" y="184" width="142" height="142" />
+	<SubTexture name="lord x left0013" x="321" y="184" width="142" height="142" />
+	<SubTexture name="lord x right0000" x="476" y="184" width="158" height="159" />
+	<SubTexture name="lord x right0001" x="476" y="184" width="158" height="159" />
+	<SubTexture name="lord x right0002" x="646" y="184" width="158" height="159" />
+	<SubTexture name="lord x right0003" x="646" y="184" width="158" height="159" />
+	<SubTexture name="lord x right0004" x="817" y="184" width="158" height="159" />
+	<SubTexture name="lord x right0005" x="817" y="184" width="158" height="159" />
+	<SubTexture name="lord x right0006" x="988" y="184" width="158" height="159" />
+	<SubTexture name="lord x right0007" x="988" y="184" width="158" height="159" />
+	<SubTexture name="lord x right0008" x="1159" y="184" width="158" height="159" />
+	<SubTexture name="lord x right0009" x="1159" y="184" width="158" height="159" />
+	<SubTexture name="lord x right0010" x="1329" y="184" width="158" height="159" />
+	<SubTexture name="lord x right0011" x="1329" y="184" width="158" height="159" />
+	<SubTexture name="lord x right0012" x="1329" y="184" width="158" height="159" />
+	<SubTexture name="lord x right0013" x="1329" y="184" width="158" height="159" />
+	<SubTexture name="lord x up0000" x="1500" y="184" width="214" height="169" />
+	<SubTexture name="lord x up0001" x="1500" y="184" width="214" height="169" />
+	<SubTexture name="lord x up0002" x="1727" y="184" width="214" height="169" />
+	<SubTexture name="lord x up0003" x="1727" y="184" width="214" height="169" />
+	<SubTexture name="lord x up0004" x="12" y="366" width="214" height="169" />
+	<SubTexture name="lord x up0005" x="12" y="366" width="214" height="169" />
+	<SubTexture name="lord x up0006" x="239" y="366" width="214" height="169" />
+	<SubTexture name="lord x up0007" x="239" y="366" width="214" height="169" />
+	<SubTexture name="lord x up0008" x="466" y="366" width="214" height="169" />
+	<SubTexture name="lord x up0009" x="466" y="366" width="214" height="169" />
+	<SubTexture name="lord x up0010" x="693" y="366" width="214" height="169" />
+	<SubTexture name="lord x up0011" x="693" y="366" width="214" height="169" />
+	<SubTexture name="lord x up0012" x="693" y="366" width="214" height="169" />
+	<SubTexture name="lord x up0013" x="693" y="366" width="214" height="169" />
+	<SubTexture name="sonic come0000" x="920" y="366" width="115" height="389" />
+	<SubTexture name="sonic come0001" x="1048" y="366" width="115" height="389" />
+	<SubTexture name="sonic come0002" x="1176" y="366" width="115" height="389" />
+	<SubTexture name="sonic come0003" x="1304" y="366" width="115" height="389" />
+	<SubTexture name="sonic come0004" x="1304" y="366" width="115" height="389" />
+	<SubTexture name="sonic come0005" x="1432" y="366" width="115" height="389" />
+	<SubTexture name="sonic come0006" x="1560" y="366" width="115" height="389" />
+	<SubTexture name="sonic come0007" x="1688" y="366" width="115" height="389" />
+	<SubTexture name="sonic come0008" x="1688" y="366" width="115" height="389" />
+	<SubTexture name="sonic come0009" x="1816" y="366" width="115" height="389" />
+	<SubTexture name="sonic come0010" x="1816" y="366" width="115" height="389" />
+	<SubTexture name="sonic come0011" x="12" y="768" width="115" height="389" />
+	<SubTexture name="sonic come0012" x="12" y="768" width="115" height="389" />
+	<SubTexture name="sonic come0013" x="140" y="768" width="115" height="389" />
+	<SubTexture name="sonic come0014" x="140" y="768" width="115" height="389" />
+	<SubTexture name="sonic come0015" x="140" y="768" width="115" height="389" />
+	<SubTexture name="sonic come0016" x="140" y="768" width="115" height="389" />
+	<SubTexture name="sonic come0017" x="140" y="768" width="115" height="389" />
+	<SubTexture name="sonic come0018" x="140" y="768" width="115" height="389" />
+	<SubTexture name="sonic come0019" x="140" y="768" width="115" height="389" />
+	<SubTexture name="sonic come0020" x="140" y="768" width="115" height="389" />
+	<SubTexture name="sonic come0021" x="140" y="768" width="115" height="389" />
+	<SubTexture name="sonic come0022" x="140" y="768" width="115" height="389" />
+	<SubTexture name="sonic come0023" x="140" y="768" width="115" height="389" />
+	<SubTexture name="sonic come0024" x="140" y="768" width="115" height="389" />
+	<SubTexture name="sonic come0025" x="140" y="768" width="115" height="389" />
+	<SubTexture name="sonic come0026" x="140" y="768" width="115" height="389" />
+	<SubTexture name="sonic come0027" x="140" y="768" width="115" height="389" />
+	<SubTexture name="sonic come0028" x="140" y="768" width="115" height="389" />
+	<SubTexture name="sonic come0029" x="140" y="768" width="115" height="389" />
+	<SubTexture name="sonic come0030" x="140" y="768" width="115" height="389" />
+	<SubTexture name="sonic come0031" x="140" y="768" width="115" height="389" />
+	<SubTexture name="sonic come0032" x="140" y="768" width="115" height="389" />
+	<SubTexture name="sonic come0033" x="140" y="768" width="115" height="389" />
+	<SubTexture name="sonic come0034" x="140" y="768" width="115" height="389" />
+</TextureAtlas>
